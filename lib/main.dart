@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Resolucion de Problemas',
+      title: 'Prueba1',
       home: const MenuPantalla(),
     );
   }
